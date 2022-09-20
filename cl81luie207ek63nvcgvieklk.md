@@ -2,9 +2,9 @@
 
 Who doesn't like a cheat sheet? So here we come. ☄️
 
-Flyte cheat sheet is a collection of code snippets pertaining to crucial Flyte concepts. It helps bring you up to speed with the latest and fundamental Flyte features tied together with Python code.
+Our Flyte cheat sheet is a collection of code snippets related to crucial Flyte concepts. It's designed to bring you up to speed with Flyte fundamentals and the latest features — all tied together with Python code.
 
-This cheat sheet is useful for data and ML engineers to take a quick glance at the [Flytekit](https://github.com/flyteorg/flytekit) syntax and features. It's simple enough to grasp, and we hope this will reduce the typical time you invest in coding when using Flytekit!
+This cheat sheet is a useful way for data and ML engineers to take a quick glance at the [Flytekit](https://github.com/flyteorg/flytekit) syntax and features. It's simple enough to grasp, and we hope this will reduce the typical time you invest in coding when using Flytekit!
 
 ![Screenshot 2022-09-14 at 12.24.45 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663138523138/Rqjr7BXz6.png align="left")
 
@@ -16,6 +16,6 @@ You can download the cheat sheet at https://raw.githubusercontent.com/flyteorg/s
 
 Some cheat sheets in the pipeline include Airflow & Flyte, Flyte integrations, and ML & data. Stay tuned!
 
-If Flyte seems interesting to you, give the [repo](https://github.com/flyteorg/flyte) a ⭐️!
+If Flyte interests you, give the [repo](https://github.com/flyteorg/flyte) a ⭐️!
 
 If you've any suggestions or questions, hit us up on [Slack](https://slack.flyte.org/). We're awaiting your feedback!
