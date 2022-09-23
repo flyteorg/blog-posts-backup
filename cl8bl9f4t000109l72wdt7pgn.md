@@ -1,4 +1,4 @@
-## How We Are Simplifying the Orchestration of Machine Learning Pipelines
+## How Flyte is Simplifying the Orchestration of Machine Learning Pipelines
 
 An ML-powered product comprises several pieces composed into an iterative cycle — data collection, data cleaning, data labeling, model development, model evaluation, model deployment and model observability. Each stage in this process has its own set of requirements and automation possibilities. On a mission to simplify each step of the model development and deployment processes, we released a suite of ML features.
 
