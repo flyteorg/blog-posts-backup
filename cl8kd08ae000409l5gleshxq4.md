@@ -81,6 +81,6 @@ We’ll process all the swag shipments after Oct. 31, 2022. We can’t promise d
 
 5/ Anything else I need to know before contributing? 
 
-Strive to adhere to the [contribution guidelines](https://docs.flyte.org/en/latest/community/contribute.html) and [hacktoberfest guidelines](https://hacktoberfest.com/participation/#pr-mr-details). If you’re new to Git and open source in general, refer to the [recommended resources](https://hacktoberfest.com/participation/#beginner-resources) on the Hacktoberfest site.
+Strive to adhere to the [contribution guidelines](https://docs.flyte.org/en/latest/community/contribute.html) and [hacktoberfest guidelines](https://hacktoberfest.com/participation/#pr-mr-details). If you’re new to Git and open source in general, refer to the [resources](https://hacktoberfest.com/participation/#beginner-resources) recommended on the Hacktoberfest site.
 
 Happy Hacktoberfest!
