@@ -72,9 +72,11 @@ If you’re new to Flyte, you can start with our [docs](https://docs.flyte.org/e
 Yes! Check our [user guide](https://docs.flyte.org/projects/cookbook/en/latest/index.html) and [tutorials](https://docs.flyte.org/projects/cookbook/en/latest/tutorials.html).
 
 3/ What if my PR is small? 
+
 No contribution is ever too small! Every contributor gets a shout-out to remind them that we are grateful and value every contribution. PRs don’t have to be code-heavy; documentation improvements are welcome too!
 
 4/ When will I receive my swag?
+
 We’ll process all the swag shipments after Oct. 31, 2022. We can’t promise delivery dates, but expect to receive them in the last week of November or the first week of December. 
 
 5/ Anything else I need to know before contributing? 
