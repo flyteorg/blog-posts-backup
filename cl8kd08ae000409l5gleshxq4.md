@@ -37,7 +37,7 @@ We created two issues in the [Flyte](https://github.com/flyteorg/flyte/issues/29
 
 1. Register anytime between September 26 and October 31 on the [Hacktoberfest site](https://hacktoberfest.com/).
 2. Pick any “hacktoberfest”-labeled issue.
-3. If you’re willing to work on it, leave a comment on the issue saying `#self-assign`, and get it assigned to you.
+3. If you’re willing to work on it, assign yourself to the issue.
 4. Create a pull request and link it back to the issue.
 Once you’re comfortable with the process, feel free to contribute more! Also, create new issues and submit the concerning PRs if need be (make sure to add the “hacktoberfest” label to your issue). We admire creative minds!
 
