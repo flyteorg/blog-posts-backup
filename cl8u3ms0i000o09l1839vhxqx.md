@@ -1,6 +1,6 @@
 ## Flyte Map Tasks: A Simpler Alternative to Apache Spark
 
-By @[Vijay Saravana Jaishanker](@vijaysaravana), @[Alex Bain](@abain) and Varsha Parthasarathy
+By @[Vijay Saravana Jaishanker](@vijaysaravana), @[Alex Bain](@abain) and @[Varsha Parthasarathy](@varshaparthasay96)
 
 [_Vijay Saravana Jaishanker_](https://www.linkedin.com/in/vijay-saravana-j/) _is an intern at_ [_Woven Planet_](https://woven-planet.global/) _on the Machine Learning Frameworks Team. Vijay and his colleagues_ [_Alex Bain_](https://www.linkedin.com/in/alexmbain/), [_Alex Pozimenko_](https://www.linkedin.com/in/alexpozimenko/) _and_ [_Varsha Parthasarathy_](https://www.linkedin.com/in/varshaparthasarathy-5b488526/) _are helping to build the safest mobility in the world. A subsidiary of Toyota,_ [_Woven Planet_](https://woven-planet.global/) _innovates and invests in new technologies, software and business models that transform how we live, work and move. With a focus on automated driving, robotics and more,_ [_Woven Planet_](https://woven-planet.global/) _builds on Toyota's legacy of trust to deliver secure, connected, reliable and sustainable mobility solutions for all._
 
