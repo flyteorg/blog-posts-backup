@@ -1,4 +1,4 @@
-## Ray and Flyte: Distributed Computing and Orchestration
+# Ray and Flyte: Distributed Computing and Orchestration
 
 Whether it is asking, “[Why do 87% of data science projects never make it into production](https://venturebeat.com/ai/why-do-87-of-data-science-projects-never-make-it-into-production/)?” or trying to [make sense of a “hot mess” called MLOps](https://venturebeat.com/business/mlops-making-sense-of-a-hot-mess/), debates around machine learning in production have never really subsided. Machine Learning research is booming, yet the best way to run models in production is still a hot topic. With the arrival of a variety of MLOps tools, the push from development to production of ML models is turning out to be harder than anticipated due to the complexity of rebundling the tools onto a single platform. 
 
@@ -70,6 +70,8 @@ To launch a Ray cluster, specify `worker_node_config` in the `RayJobConfig`.
 Flyte-Ray plugin is activated when you apply the Ray job configuration to a Flyte task.
 
 ```python
+import typing
+
 import ray
 from flytekit import task
 from flytekitplugins.ray import HeadNodeConfig, RayJobConfig, WorkerNodeConfig
@@ -91,8 +93,8 @@ def f(x):
         runtime_env={"pip": ["numpy", "pandas"]},
     )
 )
-def ray_task() -> list[int]:
-    futures = [f.remote(i) for i in range(10)]
+def ray_task(n: int) -> typing.List[int]:
+    futures = [f.remote(i) for i in range(n)]
     return ray.get(futures)
 ```
 
