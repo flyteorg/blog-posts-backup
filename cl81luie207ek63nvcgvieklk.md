@@ -7,10 +7,9 @@ Our Flyte cheat sheet is a collection of code snippets related to crucial Flyte 
 This cheat sheet is a useful way for data and ML engineers to take a quick glance at the [Flytekit](https://github.com/flyteorg/flytekit) syntax and features. It's simple enough to grasp, and we hope this will reduce the typical time you invest in coding when using Flytekit!
 
 ![Screenshot 2022-09-14 at 12.24.45 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663138523138/Rqjr7BXz6.png align="left")
-
 ![Screenshot 2022-09-14 at 12.25.02 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663138537560/HH0T2PviE.png align="left")
 
-You can download the cheat sheet at https://raw.githubusercontent.com/flyteorg/static-resources/main/cheatsheets/flyte.pdf.
+You can download the cheat sheet at [https://bit.ly/flyte-cheat-sheet](https://bit.ly/flyte-cheat-sheet).
 
 *Last updated: September 2022*
 
