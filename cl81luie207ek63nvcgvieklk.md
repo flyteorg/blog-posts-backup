@@ -1,4 +1,4 @@
-## Flyte Cheat Sheet
+# Flyte Cheat Sheet
 
 Who doesn't like a cheat sheet? So here we come. ☄️
 
@@ -10,7 +10,7 @@ This cheat sheet is a useful way for data and ML engineers to take a quick glanc
 
 ![Screenshot 2022-09-14 at 12.25.02 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663138537560/HH0T2PviE.png align="left")
 
-You can download the cheat sheet at https://raw.githubusercontent.com/flyteorg/static-resources/main/cheatsheets/flyte_cheat_sheet.pdf.
+You can download the cheat sheet at https://raw.githubusercontent.com/flyteorg/static-resources/main/cheatsheets/flyte.pdf.
 
 *Last updated: September 2022*
 
